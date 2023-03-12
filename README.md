@@ -6,5 +6,5 @@ it is based on boop a mini sb version of tap which the printers for ants team (h
 Video of first full home
 https://youtube.com/shorts/x9L8IH7k9TI?feature=share
 
-your wiper arms NEED to be removed till i or someone makes a version that is 5mm higher
+your wiper arms NEED to be removed till i or someone makes a version that is 5mm higher and moved 8mm forward
 
