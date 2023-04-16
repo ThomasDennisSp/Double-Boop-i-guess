@@ -1,0 +1,5 @@
+my wiper is not mounted to the xy joint it is mounted on the x extrusion so it clears the z joints and you can place it where you need it.
+And you can easily customise the cad to make it fit your usecase (expand it shorten it how you want) 
+glue the wiper material in the back and make it how you need it that it is resting on it
+then make a hole in your wiper material in the front and screw it in so it doesnt move 
+if you want you can install a extra piece on the side as extra wiper to make sure nothing is on your nozzle
